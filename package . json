@@ -1,0 +1,12 @@
+{
+  "name": "minha-api-precos",
+  "version": "1.0.0",
+  "description": "API para comparação de preços",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
